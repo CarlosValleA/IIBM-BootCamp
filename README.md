@@ -54,7 +54,7 @@ Jupyter notebooks and additional material for each of the days will be uploaded 
     * Vector operations
 
 
-## **Remember to send your work**
+## **Remember to send your work!!**
 In order to give you feedback, don't forget to send your work to the following [form](https://forms.gle/VjepgcVYe9ZYab269)
 
 
