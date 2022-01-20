@@ -22,14 +22,14 @@ The following is a brief description of each tutorial generated in 2022:
 
 | Day   | Colab tutorial          | Description             |
 |-------|---------------------------|---------------------------------------|
-| Day 1 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp/blob/main/D1/D1Afternoon_controlFlow.ipynb) | Setting up Tools Google Colab and Github and basics of data types|
-| Day 1 afternoon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://raw.githubusercontent.com/CarlosValleA/IIBM-BootCamp/main/D1/D1Afternoon_controlFlow.ipynb) | Control flow|
-| Day 2 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://raw.githubusercontent.com/CarlosValleA/IIBM-BootCamp/main/D2/D2_Reading_data%2C_Python_Arithmetics_and_functions%20(3).ipynb) | Reading data, arithmetics and functions|
-| Day 2 afternoon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://raw.githubusercontent.com/CarlosValleA/IIBM-BootCamp/main/D2/D2Afertoon_.ipynb) | Excersise: 'SARS-Cov-2 sequence' |
-| Day 3 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://raw.githubusercontent.com/CarlosValleA/IIBM-BootCamp/main/D3/D3_numpy.ipynb) | Numpy: Array and matrix|
-| Day 3 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://raw.githubusercontent.com/CarlosValleA/IIBM-BootCamp/main/D3/D3_plots.ipynb) | Matplotlib: Figures and plots |
-| Day 3 afternoon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://raw.githubusercontent.com/CarlosValleA/IIBM-BootCamp/main/D3/D3Afternoon_covid.ipynb) | Excersise: 'Chile: COVID data'|
-| Day 4 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | Derivatives|
+| Day 1 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp/blob/main/D1/D1Morning_tools_elemental_python.ipynb)| Setting up Tools Google Colab and Github and basics of data types|
+| Day 1 afternoon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp/blob/main/D1/D1Afternoon_controlFlow.ipynb) | Control flow|
+| Day 2 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp/blob/main/D2/D2_Reading_data%2C_Python_Arithmetics_and_functions%20(3).ipynb) | Reading data, arithmetics and functions|
+| Day 2 afternoon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp/blob/main/D2/D2Afertoon_.ipynb) | Excersise: 'SARS-Cov-2 sequence' |
+| Day 3 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp/blob/main/D3/D3_numpy.ipynb)| Numpy: Array and matrix|
+| Day 3 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp/blob/main/D3/D3_plots.ipynb#scrollTo=CMxxKzghLCeZ) | Matplotlib: Figures and plots |
+| Day 3 afternoon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp/blob/main/D3/D3Afternoon_covid.ipynb)| Excersise: 'Chile: COVID data'|
+| Day 4 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp/blob/main/D4/D4Morning_derivatives.ipynb) | Derivatives|
 | Day 4 afternoon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | Integrals|
 | Day 5 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | Linear equation|
 | Day 5 afternoon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | Excersise: Integrate all the week content |
