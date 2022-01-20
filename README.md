@@ -35,13 +35,24 @@ The following is a brief description of each tutorial generated in 2022:
 | Day 5 afternoon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | Excersise: Integrate all the week content |
 
 
-
 ## **Remember to send your work!!**
 In order to give you feedback, don't forget to send your work to the following [form](https://forms.gle/VjepgcVYe9ZYab269)
 
 
 ## **Week Schedule**
 ![imagen](https://github.com/CarlosValleA/IIBM-BootCamp/blob/main/images/week_schedule.png)
+
+
+## **Speakers presentations**
+Check out the incredible speaker presentations we had throughout the week
+
+| Day   | Presentation          | Personal lab link            |
+|-------|---------------------------|---------------------------------------|
+| Day 1 | []() | []() |
+| Day 2 | []() | [Lab PB3](https://pb3.sitios.ing.uc.cl/) |
+| Day 3 | []() | []() |
+| Day 4 | []() | []() |
+| Day 5 | []() | []() |
 
 
 ## **Topics**
