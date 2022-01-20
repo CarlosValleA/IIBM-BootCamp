@@ -2,6 +2,4 @@
 10. Calculus
     * Derivatives
     * Integrals
-11. Algebra
-    * Matrix operations
-    * Vector operations
+    * Discrete implementation
