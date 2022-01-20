@@ -1,14 +1,16 @@
 # IIBM Bootcamp 2022
+### Institute for Biological and Medical Engineering [(IIBM)](http://iibm.uc.cl), Pontificia Universidad Catolica de Chile
+
 **Instructors**: Carlos Valle (cgvalle@uc.cl) & Gabriela Vargas (givargas@uc.cl)
 
 
-Class materials for the IIBM Bootcamp to be held between January 17 and 21 of 2022. During the 5 days, practical excersices in relation to Programming (Python), Calculus and Algebra will be teached, been the main objective to equip studens of the postgraduate programs of the [Institute for Biological and Medical Engineering (IIBM)](https://ingenieriabiologicaymedica.uc.cl/en/) with tool that will be necessary to sucdeed in the different courses of the programs.
+Class materials for the IIBM Bootcamp to be held between January 17 and 21 of 2022. During the 5 days, practical excersices in relation to Programming [Python](https://www.python.org/), Calculus and Algebra will be teached, been the main objective to equip studens of the postgraduate programs of the [Institute for Biological and Medical Engineering (IIBM)](https://ingenieriabiologicaymedica.uc.cl/en/) with tool that will be necessary to sucdeed in the different courses of the programs.
 
 Jupyter notebooks and additional material for each of the days will be uploaded here.
 
 ## **Learning Objetives**
 * Adcquire basic programming skills
-*  Apply programming tools
+* Apply programming tools
 * Design basic scripts
 * Explain chosen methods and obtained results to an interdisciplinary and diverse audience
 * Contrast the results critically and respectfully with different people
@@ -20,7 +22,7 @@ The following is a brief description of each tutorial generated in 2022:
 
 | Day   | Colab tutorial          | Description             |
 |-------|---------------------------|---------------------------------------|
-| Day 1 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/CarlosValleA/IIBM-BootCamp/blob/main/D1/D1Morning_tools_elemental_python.ipynb) | Setting up Tools Google Colab and Github and basics of data types|
+| Day 1 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CarlosValleA/IIBM-BootCamp/blob/main/D1/D1Afternoon_controlFlow.ipynb) | Setting up Tools Google Colab and Github and basics of data types|
 | Day 1 afternoon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://raw.githubusercontent.com/CarlosValleA/IIBM-BootCamp/main/D1/D1Afternoon_controlFlow.ipynb) | Control flow|
 | Day 2 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://raw.githubusercontent.com/CarlosValleA/IIBM-BootCamp/main/D2/D2_Reading_data%2C_Python_Arithmetics_and_functions%20(3).ipynb) | Reading data, arithmetics and functions|
 | Day 2 afternoon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://raw.githubusercontent.com/CarlosValleA/IIBM-BootCamp/main/D2/D2Afertoon_.ipynb) | Excersise: 'SARS-Cov-2 sequence' |
@@ -31,7 +33,6 @@ The following is a brief description of each tutorial generated in 2022:
 | Day 4 afternoon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | Integrals|
 | Day 5 morning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | Linear equation|
 | Day 5 afternoon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | Excersise: Integrate all the week content |
-
 
 
 
