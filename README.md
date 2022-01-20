@@ -48,11 +48,11 @@ Check out the incredible speaker presentations we had throughout the week
 
 | Day   | Presentation          | Personal lab link            |
 |-------|---------------------------|---------------------------------------|
-| Day 1 | []() | []() |
+| Day 1 | []() | [Francisco Sahli Costalba](https://fsahli.github.io/) |
 | Day 2 | []() | [Lab PB3](https://pb3.sitios.ing.uc.cl/) |
-| Day 3 | []() | []() |
-| Day 4 | []() | []() |
-| Day 5 | []() | []() |
+| Day 3 | []() | [Wenzel Lab](https://wenzel-lab.github.io/) |
+| Day 4 | []() | [Quantitative Physiology Lab](https://marodriguezf.sitios.ing.uc.cl/index.html) |
+| Day 5 | []() | [Pablo Irarrazaval](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/72-pablo-irarrazaval#grados-academicos) |
 
 
 ## **Topics**
