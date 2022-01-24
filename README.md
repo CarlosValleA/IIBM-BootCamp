@@ -49,8 +49,8 @@ Check out the incredible speaker presentations we had throughout the week
 | Day   | Presentation          | Personal lab link            |
 |-------|---------------------------|---------------------------------------|
 | Day 1 | - | [Francisco Sahli Costalba](https://fsahli.github.io/) |
-| Day 2 | []() | [Lab PB3](https://pb3.sitios.ing.uc.cl/) |
-| Day 3 | []() | [Wenzel Lab](https://wenzel-lab.github.io/) |
+| Day 2 | [pdf](https://github.com/CarlosValleA/IIBM-BootCamp/blob/main/speakers_presentations/CESAR-IIBMBootCamp2022.pdf) | [Lab PB3](https://pb3.sitios.ing.uc.cl/) |
+| Day 3 | [pdf](https://github.com/CarlosValleA/IIBM-BootCamp/blob/main/speakers_presentations/TOBIAS_2022-01-19%20bootcamp%20presentation%20-%20for%20gihub.pdf) | [Wenzel Lab](https://wenzel-lab.github.io/) |
 | Day 4 | - | [Quantitative Physiology Lab](https://marodriguezf.sitios.ing.uc.cl/index.html) |
 | Day 5 | [pdf](https://github.com/CarlosValleA/IIBM-BootCamp/blob/main/speakers_presentations/PIM_Doctorado%20IIBM.pdf) | [Pablo Irarrazaval](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/72-pablo-irarrazaval#grados-academicos) |
 
